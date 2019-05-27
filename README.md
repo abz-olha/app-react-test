@@ -1,4 +1,36 @@
+
+#test2018_Olha_S.abzdev2.com
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##
+
+Clone the repository to your computer
+
+Click the green button on the right side of the screen to copy the SSH address of your repository:
+
+You can clone the repository like this:
+
+`` `
+git clone ssh_address_of_fork
+`` `
+
+The team will clone the repository on your computer and prepare everything you need to start working.
+
+Or select "Download ZIP"
+
+Go to the project folder, run the command:
+
+`` `
+npm i
+`` `
+
+To run a project, run the command:
+
+`` `
+npm start
+`` `
 
 ## Available Scripts
 
