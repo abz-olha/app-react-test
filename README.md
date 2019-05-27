@@ -1,10 +1,10 @@
 
-#test2018_Olha_S.abzdev2.com
+# test2018_Olha_S.abzdev2.com
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##
+## Instruction
 
 Clone the repository to your computer
 
